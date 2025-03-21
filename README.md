@@ -1,5 +1,3 @@
-# Exploratory-Data-Analysis-Project
-
 # 📊 Exploratory Data Analysis (EDA) - World Population Trends 🌍
 
 ## 📖 Overview
@@ -23,7 +21,7 @@ This project performs **Exploratory Data Analysis (EDA)** on world population da
   - **Bar Charts** for growth rates
   - **Trend Lines** for population changes over time
   - **Scatter Plot** for population vs land area
-- **Linear Regression Model:** Predicts population for **2025, 2030, 2040, and 2050**.
+
 
 ## 🖥️ Technologies Used
 - **Python**
