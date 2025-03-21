@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Project
-EDA on World Population using Pandas
+
 # 📊 Exploratory Data Analysis (EDA) - World Population Trends 🌍
 
 ## 📖 Overview
